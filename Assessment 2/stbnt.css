@@ -1,0 +1,100 @@
+body
+{
+	background-color: #353535;
+	background-image:url(assets/images/bg5.png);
+	background-repeat: no-repeat;
+}
+
+.logo
+{
+	height: 25px;
+	width: 25px;
+	padding-top: 10px;
+	padding-right: 20px;
+}
+
+h1
+{
+	border: 2px none;
+	background-color: #992233;
+	margin: -8px;
+	margin-top: 10px;
+	color: white;
+	text-align: center;
+	padding-left: 10px;
+	font-family: Tahoma,serif;
+
+}
+
+.menu
+{
+	margin: -8px;
+	margin-top: 20px;
+	border: 2px none #676767;
+	background-color: #992233;
+	text-align: center;
+}
+
+a
+{
+	color:white;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: Tahoma,sans-serif;
+}
+
+.bnt
+{
+	background-color: #992233;
+}
+
+
+.menu a:hover
+{
+	background-color: #ffffff;
+	color: #992233;
+}
+
+.diff1
+{
+	font-size: 40px;
+	font-family: tahoma, sans-serif;
+	color: white;
+	padding-left: 30px;
+}
+
+td,tr
+{
+	background-color: #992233;
+	border: 2px solid black;
+	text-align: left;
+	padding-left:75px;
+	padding-right: 200px;
+	color: white;
+	border-collapse: collapse;
+	font-family: console, monospace;
+}
+
+.diffdes1
+{
+	position: absolute;
+	transform: translate(1080px);
+	margin-top: -125px;
+	font-size: 24px;
+	background-color: gray;
+	padding-left:50px ;
+	padding-right: 100px;
+	font-family: console, monospace;
+}
+
+
+.logo2
+{
+	border: 5px solid #992233;
+	border-radius: 10px;
+	position: absolute;
+	top: 100px;
+	right: 10px;
+}
